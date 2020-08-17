@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Demo.cpp
+e:\progect_pxs\hyperlpr\prj-win\lpr\include\platedetection.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\progect_pxs\hyperlpr\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\progect_pxs\hyperlpr\prj-win\lpr\include\recognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\progect_pxs\hyperlpr\prj-win\lpr\include\fastdeskew.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\progect_pxs\hyperlpr\prj-win\lpr\include\finemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\progect_pxs\hyperlpr\prj-win\lpr\include\segmentationfreerecognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\progect_pxs\hyperlpr\prj-win\lpr\tests\demo.cpp(32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\progect_pxs\hyperlpr\prj-win\lpr\tests\demo.cpp(98): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Prj-Win.vcxproj -> E:\Progect_PXS\HyperLPR\Prj-Win\Prj-Win\..\bin\Prj-Win.exe
+  Prj-Win.vcxproj -> ..\bin\Prj-Win.pdb (Full PDB)
